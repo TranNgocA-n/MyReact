@@ -10,6 +10,9 @@
 7.  [Câu 15]  (https://codepen.io/TranNgocA-n/pen/Poapooy)
 8.  [Câu 16]  (https://codepen.io/TranNgocA-n/pen/wvXEZyb)
 9.  [Câu 17]  (https://codepen.io/TranNgocA-n/pen/GRGXLxP)
-
+10. [Câu 18]  (https://codepen.io/TranNgocA-n/pen/gOKBdJq)
+11. [Câu 19]  (https://codepen.io/TranNgocA-n/pen/jOKevjP)
+12. [Câu 20]  (https://codepen.io/TranNgocA-n/pen/rNKqZEy)
+13. [Câu 21]  (https://codepen.io/TranNgocA-n/pen/rNKqZXy)
 
 ## Thực hành
