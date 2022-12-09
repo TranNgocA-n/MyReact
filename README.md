@@ -16,3 +16,9 @@
 13. [Câu 21]  (https://codepen.io/TranNgocA-n/pen/rNKqZXy)
 
 ## Thực hành
+1.  Bài thực hành React và tạo Component
+2.  Bài thực Hành Props và State
+3.  Bài thực hành 1
+4.  Bài thực hành 2
+5.  Bài thực hành 3
+6.  Dự án hoàn chỉnh
