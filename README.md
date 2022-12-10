@@ -18,7 +18,7 @@
 ## Thực hành
 1.  Bài thực hành React và tạo Component
 2.  Bài thực Hành Props và State
-3.  Bài thực hành 1
-4.  Bài thực hành 2
-5.  Bài thực hành 3
+3.  Bài thực hành 1(https://codesandbox.io/s/bth1-w5cqks)
+4.  Bài thực hành 2(https://codesandbox.io/s/bth2-wrkh1h)
+5.  Bài thực hành 3(https://codesandbox.io/s/bth3-w9cudr)
 6.  Dự án hoàn chỉnh
